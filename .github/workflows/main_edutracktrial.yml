@@ -148,7 +148,7 @@ jobs:
 
         with:
 
-          app-name: 'Edutrack'
+          app-name: 'edutracktrial'
 
           slot-name: 'Production'
 
